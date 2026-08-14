@@ -43,3 +43,15 @@ Repositório educacional de **Segurança da Informação**, abordando conceitos 
 ---
 
 <p align="center"><i>Material didático desenvolvido como Professor de Programação, Informática e Robótica, com pós-graduação em Cybercrime e Cybersecurity.</i></p>
+
+---
+
+## ⭐ Gostou do projeto?
+
+Se este material te ajudou, deixe uma estrela — isso ajuda outros estudantes a encontrarem o repositório.
+
+### 🔗 Outros projetos relacionados
+
+⚡ [BadUSB](https://github.com/Eduardo00073/badusb) — scripts e payloads para dispositivos BadUSB voltados a testes de segurança.
+
+⚙️ [PowerShell — Scripts de Automação](https://github.com/Eduardo00073/powershell-scripts) — scripts de auditoria de redes e administração Windows.
